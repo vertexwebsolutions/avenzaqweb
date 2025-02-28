@@ -19,7 +19,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #feb900;
+  --color-primary: #8e6d11;
   --color-secondary: #52565e;
 }
 
@@ -2688,3 +2688,8 @@ section {
 .footer .footer-legal .credits a {
   color: var(--color-primary);
 }
+
+
+h1 img {
+  width: 66px; 
+  height: auto;}
